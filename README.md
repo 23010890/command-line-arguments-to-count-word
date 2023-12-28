@@ -36,7 +36,7 @@ print("The word count is",len(word))
 f1.close
 ```
 ### OUTPUT:
-![output](./word%20count.png)
+![output](./COMMAND%20LINE%20(2).png)
 
 
 ## RESULT:
